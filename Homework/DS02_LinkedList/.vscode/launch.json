@@ -1,0 +1,24 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DS02_skipList",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "DS02_skipList",
+            "args": ""
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - DS02",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "console": "internalConsole",
+            "stopOnEntry": false,
+            "mainClass": "DS02",
+            "args": ""
+        }
+    ]
+}
